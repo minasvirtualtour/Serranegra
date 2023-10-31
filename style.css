@@ -208,7 +208,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   height: 40px;
   padding: 5px;
   background-color: rgb(103,115,131);
-  background-color: rgba(11,50,34,0.8);
+  background-color: rgba(0,100,0,0.8);
 }
 
 .mobile #sceneListToggle {
