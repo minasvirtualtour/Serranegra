@@ -36,8 +36,8 @@ var APP_DATA = {
         {
           "yaw": 0.2684273425827257,
           "pitch": 0.001483052256812556,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Serra</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Vista da Serra durante o percurso</font></font>"
+          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Trilha da Serra Negra</font></font>",
+          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\"Na trilha, você já tem uma visão parcial da Serra Negra. Continue caminhando por mais alguns minutos e você chegará ao topo.</font></font>"
         }
       ]
     },
@@ -83,8 +83,8 @@ var APP_DATA = {
         {
           "yaw": 0.12402050666918285,
           "pitch": -0.013579679378873166,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Vista do rio</font></font>",
-          "text": "Text"
+          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Caminho Alternativo</font></font>",
+          "text": "Se preferir, há um caminho alternativo que permite chegar a essa parte da Serra Negra de carro. Assim, você pode desfrutar da vista sem a caminhada até o topo"
         }
       ]
     },
@@ -126,14 +126,14 @@ var APP_DATA = {
           "target": "3-topo1"
         }
       ],
-      "infoHotspots": [
+     /* "infoHotspots": [
         {
           "yaw": 0.7874511380588238,
           "pitch": 0.21201401714849233,
           "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Vista de trás da Serra</font></font>",
           "text": "Text"
         }
-      ]
+      ]*/
     },
     {
       "id": "3-topo1",
@@ -177,8 +177,8 @@ var APP_DATA = {
         {
           "yaw": 1.8005540470906025,
           "pitch": 0.04410767527920001,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Vista do Topo da Serra</font></font>",
-          "text": "<br>"
+          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Chegada ao Topo da Serra Negra</font></font>",
+          "text": "Ao chegar ao topo da Serra Negra, você é recebido por uma vista panorâmica espetacular da região montanhosa e dos rios. É um momento de pura admiração e realização."
         }
       ]
     },
@@ -220,14 +220,14 @@ var APP_DATA = {
           "target": "5-cidade"
         }
       ],
-      "infoHotspots": [
+      /*"infoHotspots": [
         {
           "yaw": -1.4898298113852277,
           "pitch": 0.06853574111309158,
           "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Arvore</font></font>",
           "text": "Text"
         }
-      ]
+      ]*/
     },
     {
       "id": "5-cidade",
@@ -259,7 +259,7 @@ var APP_DATA = {
           "yaw": 1.8728888321612196,
           "pitch": 0.1164501762313499,
           "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Cidade Ibituruna</font></font>",
-          "text": "Text"
+          "text": "A cidade está situada entre as montanhas, com suas casas e ruas. Uma visão incrível que mostra a beleza desta cidade. Ibituruna é uma cidade situada no estado de Minas Gerais. Conhecida por sua beleza natural e rica cultura, a cidade é um destino popular para aqueles que procuram uma experiência mineira."
         }
       ]
     }
